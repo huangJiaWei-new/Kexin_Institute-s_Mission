@@ -8,4 +8,4 @@ Houghcircledetection_1.0.1:
 对.bmp(11.7M)文件检测圆成功，但是检测结果偏差较大，在调整HoughCircles函数的参数基础上，继续开辟新的办法。
 
 Houghcircledetection_1.0.2:
-对.bmp(11.7M)文件检测圆成功，已调整好HoughCircles函数的参数。
+对.bmp(11.7M)文件检测圆成功，已调整好HoughCircles函数的参数，检测结果较为准确。
