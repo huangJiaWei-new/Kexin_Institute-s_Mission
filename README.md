@@ -12,4 +12,5 @@ Houghcircledetection_1.0.2:
 
 Houghcircledetection_1.0.0：
 对.bmp(11.7M)文件检测直线成功，进行绘制直线时，绘制不准确，未找到准确原因，怀疑是坐标系转换过程中出现问题。
+补充：Houghcircledetection_1.0.0在进行绘制直线时，直线的长度由自己决定，所以加长直线的长度即可，排除坐标系转换的问题。
 
