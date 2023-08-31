@@ -9,3 +9,7 @@ Houghcircledetection_1.0.1:
 
 Houghcircledetection_1.0.2:
 对.bmp(11.7M)文件检测圆成功，已调整好HoughCircles函数的参数，检测结果较为准确。
+
+Houghcircledetection_1.0.0：
+对.bmp(11.7M)文件检测直线成功，进行绘制直线时，绘制不准确，未找到准确原因，怀疑是坐标系转换过程中出现问题。
+
